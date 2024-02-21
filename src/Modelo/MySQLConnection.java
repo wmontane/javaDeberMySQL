@@ -6,7 +6,7 @@ package Modelo;
 
 /**
  *
- * @author wiler
+ * @author willlam Ontaneda
  */
 import java.sql.CallableStatement;
 import java.sql.Connection;
